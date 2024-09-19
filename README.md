@@ -27,6 +27,6 @@ Input : (1) refImg: reference image
 Output: (1) score: output index. PEL value range [0,5], where the smaller value indicates high quality.
 
 Example with images of the LIVE dataset.
-  refImg = imread('parrots.bmp'); 
-  testImg = imread('img233.bmp');
-  score = PEL(refImg, testImg); 
+- refImg = imread('parrots.bmp'); 
+- testImg = imread('img233.bmp');
+- score = PEL(refImg, testImg); 
