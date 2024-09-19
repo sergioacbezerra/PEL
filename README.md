@@ -1,4 +1,4 @@
-# PEL
+# PEL (Perceptual Error Logarithm)
 An efficient and effective full-reference perceptual analytical method, namely Perceptual Error Logarithm (PEL), to measure the image quality in consistent with subjective evaluations.
 
 - Perceptual Error Logarithm (PEL) Method (Index) - Version 1.0 
