@@ -7,9 +7,7 @@ An efficient and effective full-reference perceptual analytical method, namely P
 - e-mails: sergio.bezerra@ifam.edu.br or scoelhobezerra@gmail.com
 - Data: September/2024, Manaus, Amazonas, Brazil.
 
-The author is with Institute of Computing of the Federal University of
-Amazonas (ICOMP/UFAM), Federal University of Technology - Paraná (Brazil)
-- (CPGEI/UTFPR), and Federal Institute of Education, Science and
+The author is with Institute of Computing of the Federal University of Amazonas (ICOMP/UFAM), Federal University of Technology - Paraná (CPGEI/UTFPR), and Federal Institute of Education, Science and
 Technology of Amazonas (IFAM).
 
 ----------------------------------------------------------------------
