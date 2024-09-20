@@ -21,8 +21,8 @@ submitted to IEEE Access, Sep. 2024.
 If you find any errors or would like to make any suggestions, then please send them to the email sergio.bezerra@ifam.edu.br (or scoelhobezerra@gmail.com)
 
 How to use PEL method?
-Input : - (1) refImg: reference image
-        - (2) testImg: test image
+Input : \n - (1) refImg: reference image
+        \n - (2) testImg: test image
  
 Output: - (1) score: output index. PEL value range [0,5], where the smaller value indicates high quality.
 
