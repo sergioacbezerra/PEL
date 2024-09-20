@@ -23,6 +23,7 @@ If you find any errors or would like to make any suggestions, then please send t
 How to use PEL method?
 
 Input :  - (1) refImg: reference image
+
          - (2) testImg: test image
  
 Output: - (1) score: output index. PEL value range [0,5], where the smaller value indicates high quality.
