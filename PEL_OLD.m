@@ -6,7 +6,7 @@ function score = PEL(refImg, testImg)
 % Data: September/2024, Manaus, Amazonas, Brazil.
 %
 % The author is with Institute of Computing of the Federal University of
-% Amazonas (ICOMP/UFAM), Federal University of Technology - Paraná (Brazil)
+% Amazonas (ICOMP/UFAM), Federal University of Technology - ParanÃ¡ (Brazil)
 % - (CPGEI/UTFPR), and Federal Institute of Education, Science and
 % Technology of Amazonas (IFAM).
 %
@@ -24,7 +24,7 @@ function score = PEL(refImg, testImg)
 % perceptual quality assessment index between two images. Please refer
 % to the following paper:
 %
-% Sergio A. C. Bezerra, Sergio A. C. Bezerra Júnior, José L. de S. Pio, and
+% Sergio A. C. Bezerra, Sergio A. C. Bezerra JÃºnior, JosÃ© L. de S. Pio, and
 % Keiko V. O. Fonseca. "Perceptual Error Logarithm: an efficient and 
 % effective analytical method for full-reference image quality assessment" 
 % submitted to IEEE Access, Sep. 2024. 
