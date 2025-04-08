@@ -106,8 +106,10 @@ S_SP = (S_G.^(alfa + W_LE)).*exp(beta*( S_C - 1));
 W_SP = mean2(S_SP);
 
 % QUALITY ASSESSMENT COMPUTATION
-alphaPE = 1/exp(2*W_SP*(eW_LE^2));
-betaPE = 6.0*eW_LE - W_SP^2; 
+C1 = 2;
+C2 = 6;
+alphaPE = 1/exp(C1*W_SP*(eW_LE^2));
+betaPE = C2*eW_LE - W_SP^2; 
 PE = alphaPE*( stdfilt( (exp(C_G).^betaPE).*(AD_G + AD_L) ) +  AD_I.*AD_Q ) ; 
 MPE = mean2(PE) ;  
 K = 1;
