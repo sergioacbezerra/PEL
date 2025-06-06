@@ -16,7 +16,18 @@ commercial product, either software or hardware, without first obtaining permiss
 This is an implementation of the full-reference method for calculating the perceptual quality assessment index between two images. Please refer
 to the following paper:
 
-- Sergio A. C. Bezerra, Sergio A. C. Bezerra Júnior, José L. de S. Pio, José R. H. de Carvalho, and Keiko V. O. Fonseca. "Perceptual Error Logarithm: an efficient and effective analytical method for full-reference image quality assessment" submitted to IEEE Access, Dec. 2024. (which was accepted in April 2025)
+- S. A. C. Bezerra, S. A. C. Bezerra, J. L. De S. Pio, J. R. H. Carvalho and K. V. O. Fonseca, "Perceptual Error Logarithm: An Efficient and Effective Analytical Method for Full-Reference Image Quality Assessment," in IEEE Access, vol. 13, pp. 68587-68606, 2025, doi: 10.1109/ACCESS.2025.3560918.
+
+BibTex
+- @ARTICLE{10965688,
+  author={Bezerra, Sergio A. C. and Bezerra, Sérgio A. C. and De S. Pio, José L. and Carvalho, José R. H. and Fonseca, Keiko V. O.},
+  journal={IEEE Access}, 
+  title={Perceptual Error Logarithm: An Efficient and Effective Analytical Method for Full-Reference Image Quality Assessment}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={68587-68606},
+  doi={10.1109/ACCESS.2025.3560918}}
 
 If you find any errors or would like to make any suggestions, then please send them to the email sergio.bezerra@ifam.edu.br (or scoelhobezerra@gmail.com)
 
