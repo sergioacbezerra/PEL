@@ -43,10 +43,12 @@ How to use PEL method?
 
 (1) score: output index. PEL value range [0;5], where the smaller value indicates high quality.
 
-Example with images of the LIVE dataset.
+Example with images of the LIVE database.
 - refImg = imread('parrots.bmp'); 
 - testImg = imread('img233.bmp');
 - score = PEL(refImg, testImg); 
 
 ## Databases
-- The Databases folder contains the experiment configuration files, which have 3 columns: reference images, test images, and DMOS/MOS.
+ The Databases folder contains: 
+ - the experiment configuration files, which have 3 columns: reference images, test images, and DMOS/MOS.
+ - PEL_results.txt: Values ​​provided by the PEL method when applied to datasets.
