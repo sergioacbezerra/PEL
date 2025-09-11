@@ -50,8 +50,8 @@ function score = PEL(refImg, testImg)
 
 % DOWNSIZE
 [height, width] = size(refImg(:,:,1));
-% resize = max(1.5, (height + width)/1024) + 0.5; % line original
-resize = max(1.5, 2*max(height, width)/1024 + 0.5); % for optimizing images with full-hd resolution or higher
+% resize = 2; % line original
+resize = max(2.0, max(height , width)/512 + 0.5 ); % For optimizing images with HD resolution or higher
 resize = round(resize, 1,'decimals' );
 refImgR = imresize(refImg, 1/(resize));
 testImgR = imresize(testImg, 1/(resize));
@@ -116,3 +116,4 @@ MPE = mean2(PE) ;
 K = 1;
 score = log10(MPE + K) ;
 end  
+
